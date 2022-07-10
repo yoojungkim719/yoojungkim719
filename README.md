@@ -1,8 +1,8 @@
 ### Yoojung Kim(김유정) 👋
 
-#### Short Description about me
-- :school_satchel: I’m currently studying statistics at **Dongguk University**.
-- :page_with_curl: I’m interested in **machine learning**, **causal inference**.
+#### :one: Short Description about me
+- :school: I’m currently studying statistics at **Dongguk University**.
+- :pencil2: I’m especially interested in **machine learning**, **causal inference**.
 
 
 
