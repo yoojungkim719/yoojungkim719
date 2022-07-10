@@ -6,7 +6,7 @@
 
 
 ### Skills and Webpages
-- Tool: <code>R</code> <code>Python</code>
+- Tools: <code>R</code> <code>Python</code>
 
 
 
