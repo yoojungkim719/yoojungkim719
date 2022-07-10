@@ -7,15 +7,15 @@
 
 ### Skills and Webpages
 - Tools: <code>R</code> <code>Python</code>
-
+- Blog: <https://yoojungkim719.github.io>
+- Instagram: <https://www.instagram.com/yoo_jung._>
 
 
 
 <!--
 
 
-- Blog: [https://yoojungkim719.github.io] (https://yoojungkim719.github.io)
-- Instagram: [here] (https://www.instagram.com/yoo_jung._)
+
 
 
 
