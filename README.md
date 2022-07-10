@@ -1,16 +1,30 @@
-### Yoojung Kim(김유정) 👋
+## Yoojung Kim(김유정) 👋
+
+#### Short Description about me
+- :school_satchel: I’m currently studying statistics at **Dongguk University**.
+- :page_with_curl: I’m interested in **machine learning**, **causal inference**.
+
+
+
 
 <!--
-**yoojungkim719/yoojungkim719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+#### Education
+
+
+#### Career
+
+
+#### Skills
+
+
+#### Contact
+
+
 -->
