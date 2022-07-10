@@ -7,6 +7,7 @@
 
 For more information, please click [here](https://github.com/yoojungkim719/resume)
 
+
 ### Skills and Webpages
 - Tools: <code>R</code> <code>Python</code>
 - Blog: <https://yoojungkim719.github.io>
