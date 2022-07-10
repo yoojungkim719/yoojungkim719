@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yoojung Kim(김유정) 👋
 
 <!--
 **yoojungkim719/yoojungkim719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
