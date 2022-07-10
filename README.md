@@ -5,7 +5,7 @@
 - :pencil2: I’m especially interested in **machine learning**, **causal inference**.
 - :envelope: Contact: <yjkim.stats@gmail.com>
 
-For more information, please click [here](https://github.com/yoojungkim719/resume)
+For more information, please click [here](https://github.com/yoojungkim719/RESUME/blob/main/resume.md)
 
 
 ### Skills and Webpages
