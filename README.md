@@ -1,4 +1,4 @@
-## Yoojung Kim(김유정) 👋
+### Yoojung Kim(김유정) 👋
 
 #### Short Description about me
 - :school_satchel: I’m currently studying statistics at **Dongguk University**.
