@@ -3,16 +3,19 @@
 ### Short Description about me
 - :school: I’m currently studying statistics at **Dongguk University**, Data mining Lab.
 - :pencil2: I’m especially interested in **machine learning**, **causal inference**.
-- :envelope: Contact: [here] (mailto:yjkim.stats@gmail.com)
+
 
 ### Skills and Webpages
 - Tool: <code>R</code> <code>Python</code>
-- Blog: [here] (https://yoojungkim719.github.io)
-- Instagram: [here] (https://www.instagram.com/yoo_jung._)
+
 
 
 
 <!--
+
+- :envelope: Contact: [here] (mailto:yjkim.stats@gmail.com)
+- Blog: [here] (https://yoojungkim719.github.io)
+- Instagram: [here] (https://www.instagram.com/yoo_jung._)
 
 
 
