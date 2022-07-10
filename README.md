@@ -1,4 +1,4 @@
-## Yoojung Kim(김유정) 👋
+## About me
 
 ### :one: Short Description about me
 - :school: I’m currently studying statistics at **Dongguk University**, Data mining Lab.
