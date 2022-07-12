@@ -5,7 +5,7 @@
 - :pencil2: I’m especially interested in **machine learning**, **causal inference**.
 - :envelope: Contact: <ichbinyoojung@gmail.com>
 
-For more information, please click [here](https://github.com/yoojungkim719/RESUME/blob/main/resume.md)
+For more information, please click [here](https://yoojungkim719.github.io/about/)
 
 
 ### Skills and Webpages
