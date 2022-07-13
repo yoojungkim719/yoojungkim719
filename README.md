@@ -1,4 +1,5 @@
-## About me :sunny:
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=capsule%20render&fontSize=90&text=WELCOME)
 
 ### Short Description about me
 - :school: I’m currently studying statistics at **Dongguk University**, Data mining Lab.
