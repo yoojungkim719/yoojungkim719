@@ -1,6 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=WELCOME!&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=WELCOME!&fontSize=90&&fontAlignY=40)
 ### Short Description about me
 - :school: I’m currently studying statistics at **Dongguk University**, Data mining Lab.
 - :pencil2: I’m especially interested in **machine learning**, **causal inference**.
