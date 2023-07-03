@@ -9,8 +9,8 @@ You may find additional information of me from [here](https://ichbinyoojung.noti
 
 ## Skills and Webpages
 - Tools: <code>R</code> <code>Python</code>
-- Notion: <https://ichbinyoojung.notion.site/YOOJUNG-KIM-a8a37ea669bc41199dd8742acfc72a1b?pvs=4>
-- Instagram: <https://www.instagram.com/yoo_jung._>
+- [Notion]<https://ichbinyoojung.notion.site/YOOJUNG-KIM-a8a37ea669bc41199dd8742acfc72a1b?pvs=4>
+- [Instagram]<https://www.instagram.com/yoo_jung._>
 
 
 
