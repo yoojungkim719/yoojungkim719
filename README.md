@@ -4,12 +4,12 @@
 - :pencil2: I’m especially interested in **machine learning**, **causal inference**.
 - :envelope: Contact: <ichbinyoojung@gmail.com>
 
-You may find additional information of me from [here](https://ichbinyoojung.notion.site/YOOJUNG-KIM-a8a37ea669bc41199dd8742acfc72a1b?pvs=4)
+You may find additional information of me from [here](https://yoojungkim719.notion.site/YOOJUNG-KIM-a8a37ea669bc41199dd8742acfc72a1b?pvs=4)
 
 
 ## Skills and Webpages
 - Tools: <code>R</code> <code>Python</code>
-- [Notion](https://ichbinyoojung.notion.site/YOOJUNG-KIM-a8a37ea669bc41199dd8742acfc72a1b?pvs=4)
+- [Notion](https://yoojungkim719.notion.site/YOOJUNG-KIM-a8a37ea669bc41199dd8742acfc72a1b?pvs=4)
 - [Instagram](https://www.instagram.com/yoo_jung._)
 
 
