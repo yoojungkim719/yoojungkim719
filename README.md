@@ -1,6 +1,6 @@
 
 ## Short Description about me
-- I’m currently working at Macromill Embrain as a  **ResearcherDongguk University**.
+- I’m currently working at Macromill Embrain as a  **Researcher**.
 - I’m especially interested in **causal inference**, **heterogeneous treatment effect**, **statistical modeling**.
 - Contact: <ichbinyoojung@gmail.com>
 
