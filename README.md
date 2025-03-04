@@ -1,8 +1,8 @@
 
 ## Short Description about me
-- :school: I’m currently studying statistics at **Dongguk University**, Data mining Lab.
-- :pencil2: I’m especially interested in **machine learning**, **causal inference**.
-- :envelope: Contact: <ichbinyoojung@gmail.com>
+- I’m currently working at Macromill Embrain as a  **ResearcherDongguk University**.
+- I’m especially interested in **causal inference**, **heterogeneous treatment effect**, **statistical modeling**.
+- Contact: <ichbinyoojung@gmail.com>
 
 You may find additional information of me from [here](https://yoojungkim719.notion.site/YOOJUNG-KIM-a8a37ea669bc41199dd8742acfc72a1b?pvs=4)
 
